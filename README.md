@@ -4,8 +4,9 @@ and sometime needed to be done by a less qualified staff that was not as experie
 to simplify the data entry which could be stored in a database and as an excel file. 
 
 ## How it works
-![tota](https://user-images.githubusercontent.com/119140191/212503740-6c80c182-9a50-411f-b472-f2a8a94df045.png)
-![tot](https://user-images.githubusercontent.com/119140191/212503763-941a7e85-8619-46f7-88a8-573d7afa0dd2.png)
+![tota](https://user-images.githubusercontent.com/119140191/212503740-6c80c182-9a50-411f-b472-f2a8a94df045.png) Sign in page
+![tot](https://user-images.githubusercontent.com/119140191/212503763-941a7e85-8619-46f7-88a8-573d7afa0dd2.png) All the features
+![gp](https://user-images.githubusercontent.com/119140191/212503782-3beea76a-0840-4ff8-96a9-35b350e604aa.png) Gas purchase data entry
 
 
 
