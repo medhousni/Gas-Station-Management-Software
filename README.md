@@ -4,6 +4,7 @@ and sometime needed to be done by a less qualified staff that was not as experie
 to simplify the data entry which could be stored in a database and as an excel file. 
 
 ## How it works
+![tota](https://user-images.githubusercontent.com/119140191/212503740-6c80c182-9a50-411f-b472-f2a8a94df045.png)
 
 
 
