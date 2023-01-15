@@ -5,6 +5,8 @@ to simplify the data entry which could be stored in a database and as an excel f
 
 ## How it works
 ![tota](https://user-images.githubusercontent.com/119140191/212503740-6c80c182-9a50-411f-b472-f2a8a94df045.png)
+![tot](https://user-images.githubusercontent.com/119140191/212503763-941a7e85-8619-46f7-88a8-573d7afa0dd2.png)
+
 
 
 
