@@ -11,6 +11,9 @@ to simplify the data entry which could be stored in a database and as an excel f
 ### Gas purchase data entry
 ![gp](https://user-images.githubusercontent.com/119140191/212503782-3beea76a-0840-4ff8-96a9-35b350e604aa.png)
 ### Shop invetory data entry
+![ims](https://user-images.githubusercontent.com/119140191/212503886-446b877b-9eae-4cf3-b029-43469e5fe5d2.png)
+### HR information data entry
+![hrr](https://user-images.githubusercontent.com/119140191/212503911-8b711454-2021-4f93-aa5d-77179141a889.png)
 
 
 
